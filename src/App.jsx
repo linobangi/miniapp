@@ -44,8 +44,8 @@ const prodotti = [
     video: "/videos/HASHANGEL.MP4",
   },
   {
-    menu: "🔞-DRY “GRINGO CONNECTION”🔞",
-    nome: "DRY “GRINGO CONNECTION”",
+    menu: "🔞-DRY “BUFFALO PLEIN 50”🔞",
+    nome: "DRY “BUFFALO PLEIN 50”",
     prezziDettaglio: [
       { q: "3g", p: "30€" },
       { q: "5g", p: "40€" },
@@ -59,7 +59,7 @@ const prodotti = [
       { q: "200g", p: "880€" },
       { q: "500g", p: "1900€" }
     ],
-    img: "/img/NOTAVAILABLE.jpg",
+    video: "/videos/BUFALOPLAIN.MP4",
   },
   {
     menu: "🛍-DRY “BUFALO PLEIN “(LIMITED EDITION) 🛍",
@@ -78,7 +78,7 @@ const prodotti = [
       { q: "500g", p: "2050€" },
       { q: "1kg", p: "priv" }
     ],
-    img: "/img/NOTAVAILABLE.jpg",
+    video: "/videos/MONCHERI.MP4",
   },
   {
     menu: "❄️-ICE O LATOR❄️",
